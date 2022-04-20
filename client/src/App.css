@@ -1,0 +1,21 @@
+
+.flex-center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-sm{
+  width: 500px;
+}
+.icons-circle{
+  display: block;
+  background:#0d6efd;
+  border-radius: 50%;
+  text-align: center;
+  padding: 15px;
+}
+.form-header{
+  padding: 1rem 0;
+  margin:0;
+  color:#0d6efd;
+}
